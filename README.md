@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cosmin
 - 👀 I’m interested in games :D
 - 🌱 I’m currently learning jenkins
-- 💞️ I’m looking to collaborate on not sure yet,anything i guess :D
+- 💞️ I’m looking to collaborate on ....not sure yet on what :D
 - 📫 How to reach me : send a a text here
 
 <!---
